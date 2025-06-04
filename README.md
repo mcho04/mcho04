@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Min
-- 👀 I’m interested in Fashion, body building, and jiu jitsu
+- 👀 I’m interested in fashion, body building, and jiu jitsu
 - 🌱 I’m currently learning about Data Analytics & Machine Learning
 - 📫 How to reach me: mcho03@student.ubc.ca
 - 😄 Pronouns: He/Him
