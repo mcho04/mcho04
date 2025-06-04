@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Min
 - 👀 I’m interested in fashion, body building, and jiu jitsu
-- 🌱 I’m currently learning about Data Analytics & Machine Learning
+- 📊 I’m currently learning about Data Analytics & Machine Learning
 - 📫 How to reach me: mcho03@student.ubc.ca
-- 😄 Pronouns: He/Him
+- 👨‍💻 Pronouns: He/Him
 - ⚡ Fun fact: I have a Mexico plan scheduled in late June 😎🇲🇽
 
 - Last updated June 4 2025
