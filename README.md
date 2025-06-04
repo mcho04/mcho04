@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Min
-- 👀 I’m interested in food, gym, and fashion
-- 🌱 I’m currently learning about Machine Learning
-- 📫 How to reach me: minhyeogj231@gmail.com
+- 👀 I’m interested in Fashion, body building, and jiu jitsu
+- 🌱 I’m currently learning about Data Analytics & Machine Learning
+- 📫 How to reach me: mcho03@student.ubc.ca
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm going on a Mexico Trip Soon!
+- ⚡ Fun fact: I have a Mexico plan scheduled in late June 😎🇲🇽
 
 <!---
 mcho04/mcho04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
