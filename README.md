@@ -9,7 +9,7 @@
 ### 🌟 About Me
 
 - 🎨 I'm passionate about **fashion**, **bodybuilding**, and **jiu-jitsu**
-- 📊 Currently diving deep into **Data Analytics** & **Machine Learning**
+- 📊 Currently diving deep into **Data Visualization** & **Machine Learning**
 - ✉️ Reach me at: [mcho03@student.ubc.ca](mailto:mcho03@student.ubc.ca)
 - ⚡ Fun fact: I’ve got an exciting **Mexico trip planned for late June** 🇲🇽😎
 
