@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, I'm Min! 👋</h1>
 
 <p align="center">
-  👨‍💻 He/Him | 📍 UBC Student | 💡 Aspiring Data Analyst  
+  👨‍💻 He/Him | 📍 UBC Student | 💡 Data Analyst  
 </p>
 
 ---
