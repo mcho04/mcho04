@@ -11,7 +11,6 @@
 - 🎨 I'm passionate about **fashion**, **bodybuilding**, and **jiu-jitsu**
 - 📊 Currently diving deep into **Data Visualization** & **Machine Learning**
 - ✉️ Reach me at: [mcho03@student.ubc.ca](mailto:mcho03@student.ubc.ca)
-- ⚡ Fun fact: I’ve got an exciting **Mexico trip planned for late June** 🇲🇽😎
 
 ---
 
@@ -30,10 +29,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
 </p>
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mcho04&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcho04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
