@@ -33,7 +33,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcho04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<p align="center">
-  🗓️ <i>Last updated: June 4, 2025</i>
-</p>
