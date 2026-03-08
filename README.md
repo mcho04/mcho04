@@ -8,8 +8,8 @@
 
 ### 🌟 About Me
 
-- 🎨 I'm passionate about **fashion**, **bodybuilding**, and **jiu-jitsu**
-- 📊 Currently diving deep into **Data Visualization** & **Machine Learning**
+- 😎 I’m an incoming Summer Growth Strategy Data Analyst Intern at NRG Energy
+- 📊 Currently diving deep into **Data Engineering, Data Visualization**, and **Machine Learning**
 - ✉️ Reach me at: [mcho03@student.ubc.ca](mailto:mcho03@student.ubc.ca)
 
 ---
