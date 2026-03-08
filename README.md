@@ -8,8 +8,9 @@
 
 ### 🌟 About Me
 
-- 😎 I’m an incoming Summer Growth Strategy Data Analyst Intern at **[NRG Energy](https://www.linkedin.com/company/nrgenergy/posts/?feedView=all)**
-- 📊 Currently diving deep into **Data Engineering, Data Visualization**, and **Machine Learning**
+- Stats student @ [UBC](https://www.ubc.ca/)
+- 😎 Incoming Summer Growth Strategy Data Analyst Intern at **[NRG Energy](https://www.linkedin.com/company/nrgenergy/posts/?feedView=all)**
+- 📊 Passionate about **data engineering**, **data visualization**, and **machine learning**
 - ✉️ Reach me at: [mcho03@student.ubc.ca](mailto:mcho03@student.ubc.ca)
 
 ---
