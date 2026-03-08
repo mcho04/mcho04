@@ -2,7 +2,7 @@
 
 ---
 
-### 🌟 About Me   [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/mincho)
+### 🌟 About Me     [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/mincho)
 
 - 🎓 Stats student @ [UBC](https://www.ubc.ca/)
 - 😎 Incoming Summer **Growth Strategy Data Analyst Intern** at **[NRG Energy](https://www.linkedin.com/company/nrgenergy/posts/?feedView=all)**
