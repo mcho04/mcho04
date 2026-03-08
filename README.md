@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Min! 👋</h1>
+<h1 style="margin-left: 40px;">Hey, I'm Min! 👋</h1>
 
 ---
 
