@@ -1,9 +1,5 @@
 <h1 align="center"> Hey, I'm Min! 👋</h1>
 
-<p align="center">
-  👨‍💻 He/Him | 📍 UBC Student | 💡 Data Analyst  
-</p>
-
 ---
 
 ### 🌟 About Me
