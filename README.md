@@ -1,4 +1,4 @@
-<h1 style="margin-left: 40px;">Hey, I'm Min! 👋</h1>
+<h1 style="margin-left: 40px;">Hey, I'm Min! 🙋‍♂️</h1>
 
 ---
 
@@ -23,9 +23,9 @@
 
 **Machine Learning:**  ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 
-**Tools & Development:** ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
 **In Progress...**  [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#) [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logoColor=white)
+
+**Tools & Development:** ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 </p>
 
