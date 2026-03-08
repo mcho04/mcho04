@@ -15,9 +15,7 @@
 
 <p align="left">
   
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
+**Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 
 **Databases & Warehousing:**  
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
