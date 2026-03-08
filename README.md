@@ -15,7 +15,7 @@
 
 <p align="left">
   
-**Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+**Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 **Databases & Warehousing:** ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
@@ -25,7 +25,7 @@
 
 **Data Engineering:** [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#) [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logoColor=white)
 
-**Tools & Development:** ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) 
+**Tools & Development:** ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 </p>
 
