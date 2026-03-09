@@ -4,7 +4,7 @@
 
 ### 🌟 About Me     
 
-- 🎓 Stats student @ [UBC](https://www.ubc.ca/)
+- 🎓 Stats student @ **[UBC](https://www.ubc.ca/)**
 - 😎 Incoming Summer **Growth Strategy Data Analyst Intern** at **[NRG Energy](https://www.linkedin.com/company/nrgenergy/posts/?feedView=all)**
 - 📊 Passionate about **data engineering**, **data visualization**, and **machine learning**
 - 🐰 Profile picture: my girlfriend’s bunnies
