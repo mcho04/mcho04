@@ -7,6 +7,7 @@
 - 🎓 Stats student @ [UBC](https://www.ubc.ca/)
 - 😎 Incoming Summer **Growth Strategy Data Analyst Intern** at **[NRG Energy](https://www.linkedin.com/company/nrgenergy/posts/?feedView=all)**
 - 📊 Passionate about **data engineering**, **data visualization**, and **machine learning**
+- 🐰 Profile picture: my girlfriend’s bunnies
 - [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/mincho)
   
 ---
