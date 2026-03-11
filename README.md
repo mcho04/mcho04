@@ -9,7 +9,8 @@
 - 📊 Passionate about **data analytics, visualization, engineering**, and **machine learning**
 - Check out my projects 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/mincho)
   
-p.s. Profile picture is my girlfriend’s bunnies 🐰
+<sub>p.s. Profile picture is my girlfriend’s bunnies 🐰</sub>
+
 ---
 **Datathons I participated:**
 - [![3rd-Place-Datathon-UBC-Bolt-First-Byte-2025](https://img.shields.io/badge/-3rd--Place--Datathon--UBC--Bolt--First--Byte--2025-181717?logo=github&logoColor=white)](https://github.com/mcho04/3rd-Place-Datathon-UBC-Bolt-First-Byte-2025)
