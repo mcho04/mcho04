@@ -7,11 +7,11 @@
 - 🎓 Stats student @ **[UBC](https://www.ubc.ca/)**
 - 😎 Incoming Summer **Growth Strategy Data Analyst Intern** at **[NRG Energy](https://www.linkedin.com/company/nrgenergy/posts/?feedView=all)**
 - 📊 Passionate about **data analytics, visualization, engineering**, and **machine learning**
-- 🐰 Profile picture: my girlfriend’s bunnies
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/mincho)
+- Check out my projects 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/mincho)
   
+p.s. Profile picture is my girlfriend’s bunnies 🐰
 ---
-Datathons I participated:
+**Datathons I participated:**
 - [![3rd-Place-Datathon-UBC-Bolt-First-Byte-2025](https://img.shields.io/badge/-3rd--Place--Datathon--UBC--Bolt--First--Byte--2025-181717?logo=github&logoColor=white)](https://github.com/mcho04/3rd-Place-Datathon-UBC-Bolt-First-Byte-2025)
 - [![Datathon-UBC-Biztech-TechStrat26](https://img.shields.io/badge/-Datathon--UBC--Biztech--TechStrat26-181717?logo=github&logoColor=white)](https://github.com/mcho04/Datathon-UBC-Biztech-TechStrat26)
 - [![Datathon-UBC-Bolt-bootcamp25](https://img.shields.io/badge/-Datathon--UBC--Bolt--bootcamp25-181717?logo=github&logoColor=white)](https://github.com/mcho04/Datathon-UBC-Bolt-bootcamp25)
