@@ -9,7 +9,7 @@
 - 📊 Passionate about **data analytics, visualization, engineering**, and **machine learning**
 - Check out my projects 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/mincho)
   
-<sub>p.s. Profile picture is my girlfriend’s bunnies 🐰</sub>
+<sub>PS: Profile picture is my girlfriend’s bunnies 🐰</sub>
 
 ---
 **Datathons I participated:**
